@@ -130,6 +130,8 @@ We can use the `startEvents` property to animate upon events:
 
 [Remix the Animating on Events Glitch][eventsglitch].
 
+[AnimationComplete Event demo]: https://glitch.com/~animation-finished
+
 ## Animating Different Types of Values
 
 We'll go over different cases of animating different types of values.
