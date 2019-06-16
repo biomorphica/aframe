@@ -485,6 +485,8 @@ When the entity emits the `physicscollided` event, the function will be called
 with the event object. Notably in the event object, we have the event detail
 which contains data and information passed through the event.
 
+[Animate Button] https://glitch.com/~animate-button
+
 ### Removing an Event Listener with `.removeEventListener()`
 
 Like with normal HTML elements, when we want to remove the event listener, we
